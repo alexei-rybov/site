@@ -100,5 +100,6 @@
         <?php require_once "catalog_menu.php"; ?>
         <?php show_menu(); ?>
 ываывавыа
+аааа
 </body>
 </html>
